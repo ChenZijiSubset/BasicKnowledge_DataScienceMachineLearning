@@ -115,7 +115,7 @@ Below, you can access the lecture notes and the plan for each day of the two wee
 
 📆 ***Lecture Plan:***
 * Dimensionality reduction with matrix factorization (<code>PCA</code>)
-* Dimensionality reduction with graph algorithms (</code>tSNE<code>, <code>UMAP</code>)
+* Dimensionality reduction with graph algorithms (<code>tSNE</code>, <code>UMAP</code>)
 * Clustering algorithms (<code>KMeans</code>, <code>DBSCAN</code>, <code>HDBSCAN</code>)
 * Anomaly detection (<code>IFOR</code>, <code>OCSVM</code>)
 
